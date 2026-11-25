@@ -45,20 +45,5 @@ Analizar qué variables clínicas y demográficas presentan las asociaciones des
 - ST_Slope Flat: 82.8%; Up: 19.7%.
 - Dolor ASY: 79.0% con enfermedad.
 
-## GitHub
-Por ser un trabajo individual, usar `main` como rama final del proyecto y una rama de trabajo `luis-miguel-reyes-prado`. Para esta segunda entrega, integrar la rama de trabajo a `main`, como pide el documento final. No modificar `heart.csv`.
-
-```bash
-git init
-git add README.md
-git commit -m "Inicializa repositorio"
-git branch -M main
-git checkout -b luis-miguel-reyes-prado
-git add .
-git commit -m "Agrega análisis final de enfermedad cardíaca"
-git checkout main
-git merge luis-miguel-reyes-prado
-```
-
 ## Limitaciones
 Este análisis es exploratorio, no causal ni diagnóstico. La muestra reúne conjuntos históricos y no representa necesariamente una población actual específica.
