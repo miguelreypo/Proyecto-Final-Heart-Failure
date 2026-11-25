@@ -47,3 +47,6 @@ Analizar qué variables clínicas y demográficas presentan las asociaciones des
 
 ## Limitaciones
 Este análisis es exploratorio, no causal ni diagnóstico. La muestra reúne conjuntos históricos y no representa necesariamente una población actual específica.
+
+Control de versiones
+Rama de trabajo individual utilizada para el desarrollo del proyecto final.
